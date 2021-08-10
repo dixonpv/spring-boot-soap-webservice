@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF=8"?>
+<GetCourceDetailsRequest xmlns="http://dixonpv/courses"
+xsxsi:schemaLocation="http://dixonpv/courses course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>12</id>
+</GetCourceDetailsRequest>

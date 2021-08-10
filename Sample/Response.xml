@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF=8"?>
+<GetCourceDetailsRespone xmlns="http://dixonpv/courses"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://dixonpv/courses course-details.xsd">
+	<GetCourceDetails>
+		<id>12</id>
+		<name>Maths</name>
+	</GetCourceDetails>
+</GetCourceDetailsRespone>
